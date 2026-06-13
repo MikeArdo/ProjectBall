@@ -8,7 +8,8 @@ Attento a non farti ingannare dalla prospettiva!
 
 (Gioco creato per hobby a 14 anni)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZDANIDj2EM?si=YDZ7JqbImBl5kV2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hZDANIDj2EM?si=YDZ7JqbImBl5kV2a/0.jpg)](https://www.youtube.com/watch?v=hZDANIDj2EM?si=YDZ7JqbImBl5kV2a)
+
 <img width="512" height="288" alt="ProjectBallScreen6" src="https://github.com/user-attachments/assets/e2c109e9-6aa5-41f6-ae54-ced5e1463ec8" />
 <img width="512" height="288" alt="ProjectBallScreen5" src="https://github.com/user-attachments/assets/1e9f8a7b-a0f8-4069-87bd-8def09b4e385" />
 <img width="512" height="288" alt="ProjectBallScreen4" src="https://github.com/user-attachments/assets/1ba3be01-f628-478c-a0ab-57ec4dee6527" />
